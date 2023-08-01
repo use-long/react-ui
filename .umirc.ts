@@ -2,10 +2,10 @@
  * 文档的配置文件,也可以在 .umi/dumi/config.json中配置
  */
 import { defineConfig } from 'dumi';
-const repo = 'react-ui-dream'; // 项目名
+const repo = 'react-ui'; // 项目名
 
 export default defineConfig({
-  title: 'react-ui-dream', // 网站标题名
+  title: 'react-ui', // 网站标题名
   // 网站标题旁边图片
   favicon:
     'https://user-images.githubusercontent.com/9554297/83762004-a0761b00-a6a9-11ea-83b4-9c8ff721d4b8.png',

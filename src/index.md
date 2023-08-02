@@ -11,4 +11,4 @@ group:
 
 ## 安装
 
-> yarn add ti-react-uuxi
+> yarn add react-ui-dream

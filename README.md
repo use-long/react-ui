@@ -1,4 +1,4 @@
-# ti-lin-react
+# react-ui
 
 ## Getting Started
 
